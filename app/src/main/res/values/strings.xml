@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UBike Search</string>
+    <string name="main_title">UBike Search</string>
+    <string name="main_label">distance:</string>
+    <string name="main_button">search</string>
+    <string name="main_input_distance_hint">Input a distance(meter)</string>
+    <string name="main_input_incorrect">Distance can\'t be null</string>
+</resources>
